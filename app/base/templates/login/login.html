@@ -19,7 +19,9 @@
               {% if msg %}
                 {{ msg | safe }}
               {% else %}
-              Sign in to continue
+                Use default credentials: test / pass
+                <br />
+                OR <a href={{ url_for('base_blueprint.create_user') }} >create your own user</a>
               {% endif %}  
 
             </h4>  
