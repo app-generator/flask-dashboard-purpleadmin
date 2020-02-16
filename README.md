@@ -14,6 +14,13 @@
 
 <br />
 
+## Dashboard Links
+
+- [Flask Dashboard Purple Admin](https://appseed.us/admin-dashboards/flask-dashboard-purpleadmin) - the product page
+- [Flask Dashboard Purple Admin](https://flask-dashboard-purpleadmin.appseed.us/login) - LIVE Demo
+
+<br />
+
 ## Want more? Go PRO!
 
 PRO versions include **Premium UI Kits**, Lifetime updates and **24/7 LIVE Support** (via [Discord](https://discord.gg/fZC6hup))
