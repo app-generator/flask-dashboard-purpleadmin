@@ -1,4 +1,4 @@
-# [Flask Dashboard Purple Admin](https://appseed.us/admin-dashboards/flask-dashboard-purpleadmin)
+# [Flask Dashboard Purple](https://appseed.us/admin-dashboards/flask-dashboard-purpleadmin)
 
 > **Open-Source Admin Dashboard** coded in **Flask Framework** by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - Features:
 
@@ -172,4 +172,4 @@ A Light-weight Beautiful Admin Template for Creating Awesome Dashboards. Keeping
 <br />
 
 ---
-[Flask Dashboard Purple Admin](https://appseed.us/admin-dashboards/flask-dashboard-purpleadmin) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+[Flask Dashboard Purple](https://appseed.us/admin-dashboards/flask-dashboard-purpleadmin) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
