@@ -1,4 +1,4 @@
-# [Flask Dashboard Purple](https://appseed.us/admin-dashboards/flask-dashboard-purpleadmin)
+# [Flask Dashboard - Purple Admin Design](https://appseed.us/admin-dashboards/flask-dashboard-purpleadmin)
 
 > **Open-Source Admin Dashboard** coded in **Flask Framework** by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - Features:
 
@@ -14,11 +14,11 @@
 
 > Links
 
-- [Flask Dashboard Purple Admin](https://appseed.us/admin-dashboards/flask-dashboard-purpleadmin) - Product page
-- [Flask Dashboard Purple Admin](https://docs.appseed.us/admin-dashboards/flask-dashboard-purpleadmin/) - Documentation
-- [Flask Dashboard Purple Admin](https://flask-dashboard-purpleadmin.appseed.us/login) - LIVE Demo
-- More [Flask Admin Dashboards](https://appseed.us/admin-dashboards/flask) - index hosted by **AppSeed**
-- [Free Admin Dashboards](https://appseed.us/admin-dashboards/open-source) - index hosted by **AppSeed**
+- [Flask Dashboard - Purple Admin Design](https://appseed.us/admin-dashboards/flask-dashboard-purpleadmin) - Product page
+- [Flask Dashboard Purple Admin Docs](https://docs.appseed.us/admin-dashboards/flask-dashboard-purpleadmin/) - Documentation
+- [Flask Dashboard Purple Admin Demo](https://flask-dashboard-purpleadmin.appseed.us/login) - LIVE App
+- More [Flask Dashboards](https://appseed.us/admin-dashboards/flask) - index hosted by **AppSeed**
+- More [Admin Dashboards](https://appseed.us/admin-dashboards) - index hosted by **AppSeed**
 
 <br />
 
@@ -172,4 +172,4 @@ A Light-weight Beautiful Admin Template for Creating Awesome Dashboards. Keeping
 <br />
 
 ---
-[Flask Dashboard Purple](https://appseed.us/admin-dashboards/flask-dashboard-purpleadmin) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+[Flask Dashboard - Purple Admin Design](https://appseed.us/admin-dashboards/flask-dashboard-purpleadmin) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
