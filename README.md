@@ -175,4 +175,4 @@ A Light-weight Beautiful Admin Template for Creating Awesome Dashboards. Keeping
 <br />
 
 ---
-[Flask Dashboard](https://appseed.us/admin-dashboards/flask?ref=gh) Purple Admin - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+[Flask Dashboard](https://appseed.us/admin-dashboards/flask?ref=gh) Purple Admin - Provided by **AppSeed [App Generator](https://appseed.us/app-generator)**.
