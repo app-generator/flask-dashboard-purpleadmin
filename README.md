@@ -21,7 +21,7 @@ A Light-weight Beautiful Admin Template for creating awesome dashboards. Keeping
 
 - [Flask Purple Admin](https://appseed.us/admin-dashboards/flask-dashboard-purpleadmin) - product page
 - [Flask Purple Admin Demo](https://flask-dashboard-purpleadmin.appseed.us/login) - LIVE App
-- [Flask Purple Admin Docs](https://docs.appseed.us/admin-dashboards/flask-dashboard-purpleadmin/) - Documentation
+- [Flask Tutorial](https://github.com/app-generator/tutorial-flask) - Getting started with Flask
 
 <br />
 
